@@ -13,6 +13,8 @@ public class Source {
         this.image = image;
     }
 
+
+
     public String getTitle() {
         return title;
     }
